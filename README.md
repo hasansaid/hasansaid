@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hasan Said.
-- 👀 I’m interested in Web Development with ASP.NET MVC.
+- 👀 I’m interested in Web Development with ASP.NET MVC - React - Angular.
 - 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on high starred projects.
 
