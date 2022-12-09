@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers](https://img.shields.io/github/followers/hasansaid?style=flat&logo=github)](https://github.com/hasansaid?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/hasansaid?style=flat&logo=github&)](https://github.com/hasansaid?tab=repositories)
 
-
+![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
@@ -62,5 +62,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasansaid&theme=nord)](https://github.com/hasansaid)
 </div>
-![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
+
 
