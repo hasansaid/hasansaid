@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development with ASP.NET MVC - React - Angular.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on high starred projects.
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<!---![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)--->
+![Snake animation](https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg)
 
 
 <!---
@@ -41,19 +42,19 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <p>
     <a href="https://github.com/hasansaid" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasansaid&count_private=true&show_icons=true&theme=nord">
+    <img src="https://github-readme-stats.vercel.app/api?username=hasansaid&count_private=true&show_icons=true&theme=merko">
       </a>
 </p>
   <p>
   <a href="https://github.com/hasansaid" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hasansaid&theme=nord&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hasansaid&theme=merko&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
 
 
+<!---[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansaid&theme=merko)]()--->
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasansaid&theme=nord)](https://github.com/hasansaid)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasansaid&theme=merko)](https://github.com/hasansaid)
 </div>
 
 
