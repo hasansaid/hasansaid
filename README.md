@@ -6,6 +6,8 @@
 ![Snake animation](https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg)
 
 
+
+
 <!---
 hasansaid/hasansaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,6 +24,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/hasansaid/count.svg" />
 </p>
 --->
+
+<div align="center">
+
+![Coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
+</div>
 
 
 <hr>
