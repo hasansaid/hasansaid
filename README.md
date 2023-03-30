@@ -24,14 +24,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/hasansaid/count.svg" />
 </p>
 --->
-
+<!---
 <div align="center">
 
 ![Coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 </div>
 
-
+--->
 <hr>
 
 
