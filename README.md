@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansaid&theme=merko)]()--->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasansaid&theme=merko)](https://github.com/hasansaid)
-</div>
+<!---[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasansaid&theme=merko)](https://github.com/hasansaid)
+</div>--->
 
 
